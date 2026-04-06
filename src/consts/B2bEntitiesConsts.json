@@ -1,0 +1,24 @@
+{
+  "appName": "CT(Candidates Tracking) Portal Partners - B2B Partners Entities/Organizations API Service",
+  "license": "Copyright (C) SkillworksIT Solutions Pvt Ltd - All Rights Reserved. Unauthorized copying of this file, via any medium is strictly prohibited. Proprietary and confidential. Written by Skillworks IT <contact@skillworksit.com>, Aug 2024",
+
+  "aType": {
+    "0": "App",
+    "1": "Management",
+    "2": "Employee",
+    "3": "Tech"
+  },
+  "cuType": "B2B User",
+  "orgType": "Master",
+  "actions": {"c": "Create", "u": "Update"},
+  "pgLimit": 100,
+  "status": "Active",
+  "obType": {
+    "branch": "Branch"
+  },
+  "pDelMsg": "This team is parent for other teams",
+  "utApp": "App",
+  "utech": "Tech",
+  "utm": "Management",
+  "sa": "Super Admin"
+}
